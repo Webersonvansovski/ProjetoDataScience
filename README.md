@@ -27,3 +27,6 @@ Há semelhanças entre a solução que desenvolvi aqui e a dele, mas também alg
 - As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
 - Os preços são dados em reais (R$)
 - Temos bases de abril de 2018 a maio de 2020, com exceção de junho de 2018 que não possui base de dados
+
+
+(  PROJETO ESTA SEM DATA BASE POR SER MUITO PESADO PARA O GITHUB  )
